@@ -6,7 +6,6 @@ Project will start off as an ERC20 smart contract token based off of the Ethereu
 
 Our whitepaper is currently being written by Jaytech Designs and will be done by September 1st.  Please check back often for updates and come join us on all Acentiex social media platforms to get the latest news on our progress.  If you would like to join the team, contact us here or find us on one of the social media accounts listed below.
 
-GET SOCIAL
 Telegram
 t.me/acentiex
 
