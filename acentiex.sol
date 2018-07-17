@@ -2,16 +2,16 @@
 pragma solidity ^0.4.18;
 
 // ----------------------------------------------------------------------------
-// 'name' token contract
+// 'Acentiex' token contract
 //
-// Deployed to : your address
-// Symbol      : stock market term
-// Name        : Name
-// Total supply: 100000000
-// Decimals    : 18
-//
-// Enjoy.
-//
+// Deployed to : 0x8cc6D6792c11c2aC877988F84C2434cF19107655
+// Symbol      : ACTX
+// Name        : Acentiex
+// Total supply: 500,000,000
+// Decimals    : 8
+// By          : Jaytech Designs
+// Founded in Seattle Washington 2018
+
 // (c) by Moritz Neto with BokkyPooBah / Bok Consulting Pty Ltd Au 2017. The MIT Licence.
 // ----------------------------------------------------------------------------
 
