@@ -9,13 +9,13 @@ Our whitepaper is currently being written by https://jaytechdesigns.com and will
 https://Acentiex.com
 
 Telegram
-t.me/acentiex
+https://t.me/acentiex
 
 Discord
-discord.gg/n3m5Kr3
+https://discord.gg/n3m5Kr3
 
 Twitter
-twitter.com/acentiexcoin
+https://twitter.com/acentiexcoin
 
 Facebook
-facebook.com/acentiex
+https://facebook.com/acentiex
