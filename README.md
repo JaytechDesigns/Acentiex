@@ -1,5 +1,5 @@
 # Acentiex (ACTX)
-Acentiex ERC20 Token V1.0
+ERC20 Token V1.0
 
 
 The Acentiex Project will start off as an ERC20 smart contract token based off of the Ethereum Platform.  We will then swap our ERC20 Acentiex Token 1:1 for the new Acentiex POS Coin based off of PIVX & DASH Masternodes.  We are currently working to build a strong everlasting team that plans to stick around for the life of the project.
